@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE2EC10A",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 34.8550991,
+    "ref_longitude": 5.747097199999985,
+    "ref_altitude": 110,
+    "contact_email": "nejibtech@gmail.com",
+    "description": "mohamed nedjib"
+  }
+}
